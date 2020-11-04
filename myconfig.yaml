@@ -1,2 +1,0 @@
-rpc_address: 0.0.0.0
-commitlog_directory: /var/lib/cassandra/commitlog
